@@ -4,12 +4,13 @@
 To identify user pain points and write clear UX problem statements for two different project scenarios, select appropriate research methods with justification, and create detailed user personas based on user data or scenarios to guide user-centered design.
 
 # Output:
+![Screenshot 2025-05-30 200752](https://github.com/user-attachments/assets/18dfab0b-78a9-4653-97b3-b49c29bb878b)
 
-![Deepak S - 212224230053 (1)-images-0](https://github.com/user-attachments/assets/bc386062-b5e1-496c-ab72-0eed68bef4bf)
-![Deepak S - 212224230053 (1)-images-1](https://github.com/user-attachments/assets/7f15390e-e3c8-404f-a7f7-6b4fe8d268d4)
-![Deepak S - 212224230053 (1)-images-2](https://github.com/user-attachments/assets/d81cdbee-16e5-4fa3-bac5-32a30a1007db)
-![Deepak S - 212224230053 (1)-images-3](https://github.com/user-attachments/assets/641bbb2c-3ef7-4959-8ea6-5c94b6bdc862)
-![Deepak S - 212224230053 (1)-images-4](https://github.com/user-attachments/assets/bf97b8ab-6cde-47b0-95f3-8ccf771c2291)
+![Screenshot 2025-05-30 200805](https://github.com/user-attachments/assets/359d33ae-946d-4a3a-9e20-59777447de38)
+
+![Screenshot 2025-05-30 200818](https://github.com/user-attachments/assets/1a73c636-874a-46bd-a151-31c374fe345c)
+
+![Screenshot 2025-05-30 200829](https://github.com/user-attachments/assets/fc641ea3-480e-44a4-9206-8281215e16d0)
 
 # Result:
 We identified user pain points and wrote clear problem statements for two UX scenarios. Appropriate research methods were selected and justified. Two detailed user personas were created for each scenario to guide design decisions.
